@@ -3,7 +3,7 @@
 #include <string>
 #include "ALien.h"
 #include "GameObject.h"
-#include "sprite.h"
+#include "Sprite.h"
 #include "Minion.h"
 #include "Timer.h"
 #include "State.h"
